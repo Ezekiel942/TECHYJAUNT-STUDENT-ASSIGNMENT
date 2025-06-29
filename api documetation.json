@@ -10,7 +10,7 @@
 		{
 			"name": "User",
 			"item": [],
-			"description": "The `/me` endpoints let you manage information about the authenticated user."
+			"description": "The endpoints let you manage information about the authenticated user."
 		},
 		{
 			"name": "Student API",
